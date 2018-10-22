@@ -14,9 +14,13 @@ public class StudentService {
      * Finds top students for every grade and returns the result in a list.
      */
     public List<Student> findTopStudents(List<Student> allStudents) {
-        Map<Integer, Optional<Student>> gradeToStudent = allStudents.stream()
-                .collect(groupingBy(Student::getGrade, reducing((s1, s2) -> s1.getScore() >= s2.getScore() ? s1 : s2)));
+        Student identity = new Student(0, 0, 0);
+        Map<Integer, Student> gradeToStudent = allStudents.stream()
+                .collect(groupingBy(Student::getGrade, reducing(
+                        identity,  //  when identity is given result won't be Optional
+                        (s1, s2) -> s1.getScore() >= s2.getScore() ? s1 : s2)
+                ));
 
-        return gradeToStudent.values().stream().map(Optional::get).collect(toList());
+        return gradeToStudent.values().stream().collect(toList());
     }
 }
