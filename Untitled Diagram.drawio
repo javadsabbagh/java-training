@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T10:04:57.522Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="cGRtxVhdeCBNNKTPuRoX" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T10:09:11.222Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="yiGIQs6JwYkr8Dhy5og0" version="14.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1873" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,8 +161,10 @@
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-50" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;noEdgeStyle=1;orthogonal=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-47" target="8_k_hxX0hsHRm7YYxcYZ-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-52" value="بلی" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=right;fontSize=14;noEdgeStyle=1;orthogonal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-47" target="8_k_hxX0hsHRm7YYxcYZ-51" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-52" value="بلی" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=right;fontSize=14;noEdgeStyle=1;orthogonal=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-47" target="AXukRkckfFt8inNndeIy-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1970" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-47" value="گواهینامه کانورتی است؟" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1787" y="559.9983564814816" width="120" height="110" as="geometry" />
@@ -177,10 +179,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-51" value="گواهینامه رفع سوءاثر دارد؟" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1982" y="719.9983564814816" width="120" height="110" as="geometry" />
+          <mxGeometry x="1982" y="829.9983564814816" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-53" value="اصلاح وضعیت معادل حالت کد تامین ۳ شناسه دارد" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1832" y="879.9983564814816" width="250" height="60" as="geometry" />
+          <mxGeometry x="1832" y="989.9983564814816" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-61" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;noEdgeStyle=1;orthogonal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-55" target="8_k_hxX0hsHRm7YYxcYZ-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -189,13 +191,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-55" value="رفع سوءاثر کانورتی است؟" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2122" y="879.9983564814816" width="130" height="109.5" as="geometry" />
+          <mxGeometry x="2122" y="989.9983564814816" width="130" height="109.5" as="geometry" />
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-58" value="اگر وضعیت گواهینامه صادر شده و ارسال آن آماده جهت ارسال نیست:&lt;br&gt;&lt;br&gt;ارسال آن را آماده جهت ارسال کن" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1917" y="1039.4983564814816" width="250" height="60" as="geometry" />
+          <mxGeometry x="1917" y="1149.4983564814816" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-59" value="اصلاح وضعیت معادل کد تامین ۱ یا ۲ یا ۴ یا ۵ و حالت شناسه دارد" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2207" y="1039.4983564814816" width="250" height="60" as="geometry" />
+          <mxGeometry x="2207" y="1149.4983564814816" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXukRkckfFt8inNndeIy-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AXukRkckfFt8inNndeIy-1" target="8_k_hxX0hsHRm7YYxcYZ-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXukRkckfFt8inNndeIy-1" value="&lt;ul style=&quot;font-size: 12px&quot;&gt;&lt;li style=&quot;font-size: 12px&quot;&gt;بروزرسانی فیلد شناسه بانک مرکزی&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1932" y="730" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
