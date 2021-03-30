@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T09:50:39.746Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="pfGPl3ZxG-66IEEYO41m" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T09:52:42.979Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="88nV4P7cyMXOt-ctI_KQ" version="14.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2700" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -201,7 +201,7 @@
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-55" value="رفع سوءاثر کانورتی است؟" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-690" y="530" width="130" height="109.5" as="geometry" />
         </mxCell>
-        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-58" value="اگر وضعیت گواهینامه صادر شده و ارسال آن آماده جهت ارسال نیست:&lt;br&gt;&lt;br&gt;ارسال آن را آماده جهت ارسال کن" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-995" y="554.5" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-59" value="اصلاح وضعیت معادل کد تامین ۱ یا ۲ یا ۴ یا ۵ و حالت شناسه دارد" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
