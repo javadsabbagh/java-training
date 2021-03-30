@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T11:53:36.888Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="juHGlhyJxjg_OAsK6haE" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T12:00:40.015Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="_czG0GDr5qLhtm2Q-kLq" version="14.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1873" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,7 +169,7 @@
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-47" value="گواهینامه کانورتی است؟" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1787" y="559.9983564814816" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-49" value="&lt;ul&gt;&lt;li&gt;بروزرسانی شناسه بانک مرکزی برای گواهینامه&lt;/li&gt;&lt;li&gt;وضعیت ارسال تایید بانک مرکزی شود&lt;/li&gt;&lt;li&gt;فیلد وضعیت استعلام با ۲ بروز شود&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-49" value="&lt;ul&gt;&lt;li&gt;بروزرسانی شناسه بانک مرکزی برای گواهینامه&lt;/li&gt;&lt;li&gt;وضعیت ارسال گواهینامه تایید بانک مرکزی شود&lt;/li&gt;&lt;li&gt;فیلد وضعیت استعلام با ۲ بروز شود&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1592" y="719.9983564814816" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-54" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;noEdgeStyle=1;orthogonal=1;exitX=0.2;exitY=0.727;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-51" target="8_k_hxX0hsHRm7YYxcYZ-53" edge="1">
