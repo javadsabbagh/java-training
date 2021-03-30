@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T09:29:07.929Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="k_0OEGCmUzXOvAv468jx" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T09:40:13.533Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="2R74IMal1ZXh_6p8wlW2" version="14.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1873" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2700" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -99,8 +99,13 @@
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-28" value="هیچ کاری نمی کند" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-520" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=14;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-30" target="8_k_hxX0hsHRm7YYxcYZ-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=14;align=left;entryX=0.967;entryY=0.445;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-30" target="8_k_hxX0hsHRm7YYxcYZ-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-112" y="220" />
+              <mxPoint x="-112" y="199" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-30" value="استعلام گواهینامه از بانک مرکزی" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-60" y="190" width="120" height="60" as="geometry" />
@@ -110,8 +115,11 @@
             <mxPoint x="-220" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-32" target="8_k_hxX0hsHRm7YYxcYZ-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-32" value="گواهینامه نزد بانک وجود دارد؟" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-280" y="150" width="120" height="110" as="geometry" />
+          <mxGeometry x="-260" y="150" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-33" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=14;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-35" target="8_k_hxX0hsHRm7YYxcYZ-36">
           <mxGeometry relative="1" as="geometry" />
@@ -154,6 +162,50 @@
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=14;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-200" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-50" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-47" target="8_k_hxX0hsHRm7YYxcYZ-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-47" target="8_k_hxX0hsHRm7YYxcYZ-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-47" value="گواهینامه کانورتی است؟" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-473" y="230" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-49" value="بروزرسانی شناسه بانک مرکزی برای گواهینامه&lt;br&gt;وضعیت ارسال تایید بانک مرکزی شود" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-780" y="260" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-54" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-51" target="8_k_hxX0hsHRm7YYxcYZ-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-57" value="بلی" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-51" target="8_k_hxX0hsHRm7YYxcYZ-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-490" y="500" />
+              <mxPoint x="-620" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-51" value="گواهینامه رفع سوءاثر دارد؟" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-550" y="370" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-53" value="اصلاح وضعیت معادل حالت کد تامین ۳ شناسه دارد" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-890" y="395" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-61" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-55" target="8_k_hxX0hsHRm7YYxcYZ-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-62" value="بلی" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-55" target="8_k_hxX0hsHRm7YYxcYZ-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-55" value="رفع سوءاثر کانورتی است؟" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-680" y="529.5" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-970" y="555" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-59" value="اصلاح وضعیت معادل کد تامین ۱ یا ۲ یا ۴ یا ۵ و حالت شناسه دارد" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-770" y="700" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
