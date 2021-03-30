@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T10:12:56.812Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="AvmQOGiT5vExAUhUn9KX" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T10:21:51.338Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Nl-n4budJ71O2o8FGZv-" version="14.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1873" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,8 +73,8 @@
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-20" value="&lt;span style=&quot;font-size: 12px&quot;&gt;اصلاح وضعیت معادل کد تامین ۱ یا ۲ یا ۴ یا ۵ و حالت شناسه دارد&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="752" y="679.9983564814816" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-21" value="پیام خطا بدهد" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-10" y="579.9983564814816" width="120" height="60" as="geometry" />
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-21" value=":&amp;nbsp;خطا بدهد&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;div style=&quot;text-align: right; font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;گواهینامه عدم پرداخت حضوری ثبت شده است و دارای شناسه چک برگشتی است لذا امکان فراخوانی مجدد سرویس استعلام شناسه چک برگشتی برای آن وجود ندارد&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;align=center;fontColor=#FF3333;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-290" y="580" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-22" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=14;align=left;noEdgeStyle=1;orthogonal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-23" target="8_k_hxX0hsHRm7YYxcYZ-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
