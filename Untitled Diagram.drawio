@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T11:32:19.484Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="SYFwpyAWGfYvoTdk9rGI" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T11:35:14.132Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="h2BGbtecoM-nxsTJn4sb" version="14.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1873" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,8 +208,14 @@
         <mxCell id="AXukRkckfFt8inNndeIy-4" value="&lt;h1&gt;حالت کد تامین ۱ و شناسه یافت شد&lt;/h1&gt;&lt;p&gt;&lt;ul&gt;&lt;li&gt;درج وضعیت ارسال گواهینامه ۲و۳و۵&amp;nbsp;&lt;/li&gt;&lt;li&gt;ثبت وضعیت رفع سوءاثر: ۱ (موقت)&lt;/li&gt;&lt;li&gt;(ثبت وضعیت بررسی سوءاثر: ۱ (در حال ثبت&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1970" y="1260" width="460" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="AXukRkckfFt8inNndeIy-5" value="&lt;h1&gt;حالت کد تامین ۲ و شناسه یافت شد&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;درج وضعیت ارسال گواهینامه ۲و۳و۵&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;span&gt;(ثبت وضعیت بررسی سوءاثر:&amp;nbsp; (تایید ريیس منطقه&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;پاک کردن وضعیت های ارسال رفع سواثر&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AXukRkckfFt8inNndeIy-5" value="&lt;h1&gt;حالت کد تامین ۲ و شناسه یافت شد&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;درج وضعیت ارسال گواهینامه ۲و۳و۵&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;span&gt;(ثبت وضعیت بررسی سوءاثر: ۳ (تایید ريیس شعبه&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;پاک کردن وضعیت های ارسال رفع سواثر&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1982" y="1390" width="460" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AXukRkckfFt8inNndeIy-6" value="&lt;h1&gt;حالت کد تامین ۳ و شناسه یافت شد&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;درج وضعیت ارسال گواهینامه ۲و۳و۵&amp;nbsp;&lt;/li&gt;&lt;li&gt;فیلد رفع سو اثر گواهینامه : نشده&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1982" y="1530" width="460" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AXukRkckfFt8inNndeIy-7" value="&lt;h1&gt;حالت کد تامین ۴ و شناسه یافت شد&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;درج وضعیت ارسال گواهینامه ۲و۳و۵&amp;nbsp;&lt;/li&gt;&lt;li&gt;ثبت وضعیت رفع سوءاثر: ۱ (موقت)&lt;/li&gt;&lt;li&gt;(ثبت وضعیت بررسی سوءاثر: ۱ (در حال ثبت&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1982" y="1630" width="460" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
