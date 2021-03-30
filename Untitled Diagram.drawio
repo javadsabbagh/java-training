@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T09:06:32.450Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="whYHp6ceWcicx68rMNfU" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T09:12:39.286Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="AbgCmW5OWQ7Gp4aALA4A" version="14.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1873" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="eY8-IsXeW_9uEEIaDJTf-6" value="گواهینامه دارای رفع سوءاثر است؟" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="590" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eY8-IsXeW_9uEEIaDJTf-9" value="معادل کد تامین ۳ شناسه دارد" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eY8-IsXeW_9uEEIaDJTf-9" value="اصلاح وضعیت ها برای&lt;br&gt;&amp;nbsp;کد تامین ۳ شناسه دارد" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-90" y="660" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eY8-IsXeW_9uEEIaDJTf-30" value="بلی" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontSize=15;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eY8-IsXeW_9uEEIaDJTf-12" target="eY8-IsXeW_9uEEIaDJTf-29">
@@ -117,11 +117,29 @@
         <mxCell id="eY8-IsXeW_9uEEIaDJTf-48" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=14;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eY8-IsXeW_9uEEIaDJTf-46" target="eY8-IsXeW_9uEEIaDJTf-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eY8-IsXeW_9uEEIaDJTf-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=14;fontColor=#FF0000;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eY8-IsXeW_9uEEIaDJTf-46" target="eY8-IsXeW_9uEEIaDJTf-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eY8-IsXeW_9uEEIaDJTf-46" value="گواهینامه کانورتی است؟" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-260" y="-50" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eY8-IsXeW_9uEEIaDJTf-47" value="پیام خطا بدهد&lt;br&gt;&lt;pre style=&quot;font-family: &amp;#34;dejavu sans mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;اطلاعاتی برای این گواهینامه نزد بانک مرکزی یافت نشد&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-260" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eY8-IsXeW_9uEEIaDJTf-52" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontSize=14;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eY8-IsXeW_9uEEIaDJTf-49" target="eY8-IsXeW_9uEEIaDJTf-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eY8-IsXeW_9uEEIaDJTf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=14;fontColor=#000000;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eY8-IsXeW_9uEEIaDJTf-49" target="eY8-IsXeW_9uEEIaDJTf-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eY8-IsXeW_9uEEIaDJTf-49" value="گواهینامه رفع سوءاثر دارد؟" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-460" y="-50" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="eY8-IsXeW_9uEEIaDJTf-51" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px&quot;&gt;اصلاح وضعیت ها برای&lt;br&gt;&amp;nbsp;کد تامین ۳ شناسه ندارد&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-680" y="-20" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eY8-IsXeW_9uEEIaDJTf-53" value="اصلاح وضعیت ها برای&lt;br&gt;کد تامین ۱و۲و۴و۵ شناسه ندارد" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-520" y="130" width="167" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
