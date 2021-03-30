@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T09:12:39.286Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="AbgCmW5OWQ7Gp4aALA4A" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T09:13:08.323Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="rJL_u1mUP-jDMAiTLDH-" version="14.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1873" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
         <mxCell id="eY8-IsXeW_9uEEIaDJTf-15" value="رفع سواثر کانورتی است؟" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="750" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eY8-IsXeW_9uEEIaDJTf-23" value="&lt;h1 style=&quot;text-align: right&quot;&gt;کد تامین در گواهینامه های کانورتی&lt;/h1&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span&gt;کد تامین ۱&lt;/span&gt;&lt;br&gt;&lt;span&gt;کد تامین ۲&lt;/span&gt;&lt;br&gt;&lt;span&gt;کد تامین ۳ - گواهینامه رفع سواثر ندارد&lt;/span&gt;&lt;br&gt;&lt;span&gt;کد تامین ۴&lt;/span&gt;&lt;br&gt;&lt;span&gt;کد تامین ۵&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eY8-IsXeW_9uEEIaDJTf-23" value="&lt;h1 style=&quot;text-align: right&quot;&gt;کد تامین در گواهینامه های کانورتی&lt;/h1&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;text-align: right&quot;&gt;&lt;span&gt;کد تامین ۱&lt;/span&gt;&lt;br&gt;&lt;span&gt;کد تامین ۲&lt;/span&gt;&lt;br&gt;&lt;span&gt;کد تامین ۳ - گواهینامه کانورتی رفع سواثر ندارد&lt;/span&gt;&lt;br&gt;&lt;span&gt;کد تامین ۴&lt;/span&gt;&lt;br&gt;&lt;span&gt;کد تامین ۵&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="480" width="460" height="290" as="geometry" />
         </mxCell>
         <mxCell id="eY8-IsXeW_9uEEIaDJTf-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -129,7 +129,7 @@
         <mxCell id="eY8-IsXeW_9uEEIaDJTf-52" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;fontSize=14;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eY8-IsXeW_9uEEIaDJTf-49" target="eY8-IsXeW_9uEEIaDJTf-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eY8-IsXeW_9uEEIaDJTf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=14;fontColor=#000000;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eY8-IsXeW_9uEEIaDJTf-49" target="eY8-IsXeW_9uEEIaDJTf-53">
+        <mxCell id="eY8-IsXeW_9uEEIaDJTf-54" value="بلی" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=14;fontColor=#000000;align=left;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eY8-IsXeW_9uEEIaDJTf-49" target="eY8-IsXeW_9uEEIaDJTf-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eY8-IsXeW_9uEEIaDJTf-49" value="گواهینامه رفع سوءاثر دارد؟" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
