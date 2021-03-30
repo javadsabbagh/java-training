@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-30T09:49:02.798Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="lLTxH9KAVgOQhvTngUZi" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T09:49:53.989Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="yhx_3gngnLpG4kCny5x6" version="14.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2700" dy="1763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,20 +192,20 @@
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-53" value="اصلاح وضعیت معادل حالت کد تامین ۳ شناسه دارد" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-890" y="395" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-61" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-55" target="8_k_hxX0hsHRm7YYxcYZ-58" edge="1">
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-61" value="خیر" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-55" target="8_k_hxX0hsHRm7YYxcYZ-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-62" value="بلی" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-55" target="8_k_hxX0hsHRm7YYxcYZ-59" edge="1">
+        <mxCell id="8_k_hxX0hsHRm7YYxcYZ-62" value="بلی" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8_k_hxX0hsHRm7YYxcYZ-55" target="8_k_hxX0hsHRm7YYxcYZ-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-55" value="رفع سوءاثر کانورتی است؟" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fontSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-680" y="529.5" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-58" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-970" y="555" width="250" height="60" as="geometry" />
+          <mxGeometry x="-995" y="554.5" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8_k_hxX0hsHRm7YYxcYZ-59" value="اصلاح وضعیت معادل کد تامین ۱ یا ۲ یا ۴ یا ۵ و حالت شناسه دارد" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-770" y="700" width="250" height="60" as="geometry" />
+          <mxGeometry x="-745" y="720" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
